@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-react-todo-basic-client-side-solution",
+    "id": "a00dd442-7e62-412b-acf7-0350f0962d5f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-react-todo-basic.sppkg"
+  }
+}
